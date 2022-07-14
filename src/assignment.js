@@ -20,7 +20,6 @@ function sumOfNumbers(arrayOfNumbers) {
         sum += arrayOfNumbers[items]
     }
     return sum;
-    // return arrayOfNumbers.length;
 }
 assignment.sumOfNumbers = sumOfNumbers;
 
